@@ -29,17 +29,13 @@ nav:
 
 # MENTIONS LEGALES
 
-copyright: Sophrologie en Mathesyne par Corinne Grignou
+copyright: Sophrologie en Matheysine par Corinne Grignou
 
 
 # LIENS EXTERNES
 
 extra:
   generator: false
-  social :
-    - icon: fontawesome/brands/facebook
-      link: https://www.linkedin.com/company/konsilion/
-      name: Retrouvez-moi sur facebook
   version:
       provider: mike
       javascript_dir: js
