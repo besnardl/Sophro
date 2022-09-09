@@ -31,6 +31,16 @@ La sophrologie permet d’accompagner de nombreux besoins pour les enfants à pa
 
 ## Mon parcours
 
+
+
+<img src="../../photos/mon_parcours.jpg" class="image_loic">
+
+  
+  
+         
+          
+
+
 Enseignante dans le primaire depuis plus de vingt-cinq ans, j’ai eu envie de me former à la sophrologie pour retrouver un équilibre tant physique, que mental et émotionnel, et ainsi renforcer mes capacités de confiance, d’harmonie, d’optimisme dans ma vie professionnelle et personnelle.
 
 Pratiquant la sophrologie très régulièrement, ainsi que le yoga, j’ai eu envie de transmettre à mes élèves ces outils magnifiques pour leur permettre une meilleure concentration, développer leurs capacités mentales pour réussir et surtout gérer leurs émotions.
@@ -44,8 +54,21 @@ Mon objectif étant de créer un équilibre entre le corps et l’esprit par ces
 
 <br>
 
+
+
+
+
 <style>
   .md-content__button {
     display: none;
   }
+    
+  .image_loic {
+        width: 200px;
+        border-radius:25px;
+        box-shadow: 5px 5px 8px 8px rgba(0, 0, 0, .2);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;  
+  } 
 </style>

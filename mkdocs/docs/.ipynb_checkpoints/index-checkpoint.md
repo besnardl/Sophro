@@ -23,6 +23,13 @@ Riche de mon expérience de pédagogue auprès des enfants en particulier et des
 
 <br>
 
+
+
+!!! info "Tarifs"
+
+    Pas cher
+    
+    
 <style>
   .md-content__button {
     display: none;
